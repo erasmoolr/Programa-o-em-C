@@ -10,7 +10,7 @@ int main() {
     printf("Estado: \n ");
     scanf("%c", &letra_estado);
     printf("Código da cidade: \n ");
-    scanf("%s", código_cidade);
+    scanf("%s", codigo_cidade);
     printf("Nome da cidade: \n ");
     scanf("%s", nome_cidade);
     printf("População: \n ");
